@@ -2,6 +2,7 @@
 
 ### Feat
 
+- changelog pdated
 - **file**: add   space
 - **setting**: remove spaces
 - **file**: changes

@@ -52,3 +52,4 @@ if __name__ == "__main__":
     changelog = generate_changelog(repo_path)
     write_changelog(changelog, "CHANGELOG.md")
     print("Changelog generated and saved to CHANGELOG.md")
+
