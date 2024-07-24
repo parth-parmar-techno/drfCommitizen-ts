@@ -10,3 +10,8 @@ No Existing Tag. Set tag to v0.0.1
 ? Keep major version zero (0.x) during breaking changes Yes
 ? What types of pre-commit hook you want to install? (Leave blank if you don't want to install) done
 ------------------------------------------
+cz commit
+-------------------------
+cz changelog : to create logfile
+------------------
+cz bump : to create new tag 
