@@ -1,0 +1,21 @@
+[settings]
+path = "CHANGELOG.md"
+repository = "https://github.com/your-repo/your-project"
+
+[template]
+header = """
+# Changelog
+All notable changes to this project will be documented in this file.
+"""
+
+entry = """
+## {{ version }} ({{ date }})
+
+{% for group, commits in commits|group_by('group') %}
+* **{{ group.title() }}:**
+{% for commit in commits %}
+  - {{ commit.subject }} ({{ commit.hash|short }})
+{% endfor %}
+{% endfor %}
+"""
+
