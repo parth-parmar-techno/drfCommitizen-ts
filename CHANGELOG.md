@@ -1,13 +1,22 @@
-# Changelog
+## Unreleased
 
-## Feat
+### Feat
 
-- 2024-07-24 [01cd4c9] - remove spaces
+- **file**: add   space
+- **setting**: remove spaces
+- **file**: changes
+- **file**: file changes add spaces
+- **file**: add spaces
+- remove spaces
 
-remove extra spaces
+## 0.2.0 (2024-07-24)
 
-no footer
+### Feat
 
-- 2024-07-24 [d4e7114] - short change
+- **api**: added space
 
+## 0.1.0 (2024-07-24)
 
+### Feat
+
+- short change
