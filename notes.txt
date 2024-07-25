@@ -15,3 +15,6 @@ cz commit
 cz changelog : to create logfile
 ------------------
 cz bump : to create new tag 
+
+---------------
+remove : .toml :major_version_zero = true
