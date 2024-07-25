@@ -1,7 +1,8 @@
-## Unreleased
+## 0.4.0 (2024-07-25)
 
 ### Feat
 
+- readme.md added
 - **settings**: space added
 - **log-file**: updated
 - **log-generator**: file updated
