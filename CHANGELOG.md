@@ -1,7 +1,8 @@
-## Unreleased
+## 2.2.0 (2024-07-25)
 
 ### Feat
 
+- **core**: other space added
 - **core**: space added
 - **settings**: add changelog
 - **settings**: remove space
