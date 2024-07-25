@@ -1,5 +1,9 @@
 ## Unreleased
 
+### Feat
+
+- **settings**: remove space
+
 ## 2.1.0 (2024-07-25)
 
 ### Feat
