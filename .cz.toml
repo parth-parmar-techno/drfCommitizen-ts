@@ -4,3 +4,6 @@ tag_format = "$version"
 version_scheme = "semver"
 version = "2.1.0"
 update_changelog_on_bump = true
+
+[tool.commitizen.customizations]
+commit_url_format = "https://github.com/parth-parmar-techno/drfCommitizen-ts/commit/{hash}"
