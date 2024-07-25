@@ -2,6 +2,8 @@
 
 ### Feat
 
+- **core**: space added
+- **settings**: add changelog
 - **settings**: remove space
 
 ## 2.1.0 (2024-07-25)
