@@ -2,6 +2,7 @@
 
 ### Feat
 
+- **settings**: space added
 - **log-file**: updated
 - **log-generator**: file updated
 - changelog pdated
