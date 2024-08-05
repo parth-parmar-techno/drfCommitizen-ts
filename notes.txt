@@ -24,3 +24,9 @@ cz bump --increment MINOR : 1.x.y to 1.(y+1).z
 cz bump --increment MAJOR : 1.x.y to 2.x.y
 --------------------
 cz bump --increment PATCH : 1.y.z to 1.y.(z+1)
+
+
+--------------------------------------
+cz version --project : get current Project Tag
+--------------------------------------
+git push origin --tags : push tags
